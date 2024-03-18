@@ -1,0 +1,5 @@
+D:\Workspace\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.csproj.AssemblyReference.cache
+D:\Workspace\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.AssemblyInfoInputs.cache
+D:\Workspace\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.AssemblyInfo.cs
+D:\Workspace\FirstProgram\FirstProgram\obj\Debug\net6.0\FirstProgram.csproj.CoreCompileInputs.cache
