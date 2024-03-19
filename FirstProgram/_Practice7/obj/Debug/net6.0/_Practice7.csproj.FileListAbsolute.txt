@@ -1,0 +1,15 @@
+D:\Workspace\FirstProgram\_Practice7\bin\Debug\net6.0\_Practice7.exe
+D:\Workspace\FirstProgram\_Practice7\bin\Debug\net6.0\_Practice7.deps.json
+D:\Workspace\FirstProgram\_Practice7\bin\Debug\net6.0\_Practice7.runtimeconfig.json
+D:\Workspace\FirstProgram\_Practice7\bin\Debug\net6.0\_Practice7.dll
+D:\Workspace\FirstProgram\_Practice7\bin\Debug\net6.0\_Practice7.pdb
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.csproj.AssemblyReference.cache
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.AssemblyInfoInputs.cache
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.AssemblyInfo.cs
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.csproj.CoreCompileInputs.cache
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.dll
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\refint\_Practice7.dll
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.pdb
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\_Practice7.genruntimeconfig.cache
+D:\Workspace\FirstProgram\_Practice7\obj\Debug\net6.0\ref\_Practice7.dll
