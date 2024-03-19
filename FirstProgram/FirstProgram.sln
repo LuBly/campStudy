@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstProgram", "FirstProgram\FirstProgram.csproj", "{AB15F831-BE68-4996-A217-EF583337AA16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProgram", "FirstProgram\FirstProgram.csproj", "{AB15F831-BE68-4996-A217-EF583337AA16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Practice1", "_Practice1\_Practice1.csproj", "{24B591B8-E6FA-41DF-AB96-5725C8A2E3B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Practice1", "_Practice1\_Practice1.csproj", "{24B591B8-E6FA-41DF-AB96-5725C8A2E3B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Practice2", "_Practice2\_Practice2.csproj", "{ACC53CC4-30A9-42C6-98A9-875924861D19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Practice2", "_Practice2\_Practice2.csproj", "{ACC53CC4-30A9-42C6-98A9-875924861D19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Practice3", "_Practice3\_Practice3.csproj", "{7A69330A-EE5A-47F4-839D-8320F3A4B659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Practice3", "_Practice3\_Practice3.csproj", "{7A69330A-EE5A-47F4-839D-8320F3A4B659}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Practice4", "_Practice4\_Practice4.csproj", "{C5131EAE-A81D-4186-BA31-BA554BD12CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Practice4", "_Practice4\_Practice4.csproj", "{C5131EAE-A81D-4186-BA31-BA554BD12CFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Practice5", "_Practice5\_Practice5.csproj", "{78E6F45C-1AEC-458B-82E1-D3915E38F413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Practice5", "_Practice5\_Practice5.csproj", "{78E6F45C-1AEC-458B-82E1-D3915E38F413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Practice6", "_Practice6\_Practice6.csproj", "{E2ED080B-0B29-4BFC-B9A8-B48A8F1F6580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{78E6F45C-1AEC-458B-82E1-D3915E38F413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78E6F45C-1AEC-458B-82E1-D3915E38F413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78E6F45C-1AEC-458B-82E1-D3915E38F413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2ED080B-0B29-4BFC-B9A8-B48A8F1F6580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2ED080B-0B29-4BFC-B9A8-B48A8F1F6580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2ED080B-0B29-4BFC-B9A8-B48A8F1F6580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2ED080B-0B29-4BFC-B9A8-B48A8F1F6580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
