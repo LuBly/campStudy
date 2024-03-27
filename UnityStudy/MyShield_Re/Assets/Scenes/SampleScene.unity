@@ -1793,6 +1793,7 @@ MonoBehaviour:
   timeText: {fileID: 1122582375}
   bestTime: {fileID: 839705955}
   curTime: {fileID: 436217602}
+  anim: {fileID: 587440594}
 --- !u!1 &1764180844
 GameObject:
   m_ObjectHideFlags: 0
