@@ -13,6 +13,12 @@ public class Card : MonoBehaviour
 
     public int idx;
 
+    AudioSource audioSource;
+    public AudioClip clip;
+    private void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
     public void Setting(int num)
     {
         idx = num;
@@ -21,6 +27,10 @@ public class Card : MonoBehaviour
 
     public void OpenCard()
     {
+        if (GameManager.Instance.secondCard != null) return;
+
+        audioSource.PlayOneShot(clip);
+        //소리들이 겹치지 않음
         anim.SetBool("isOpen", true);
         front.SetActive(true);
         back.SetActive(false);
